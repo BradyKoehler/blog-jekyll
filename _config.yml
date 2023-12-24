@@ -27,6 +27,8 @@ url: "https://blog.zyc.sh" # the base hostname & protocol for your site, e.g. ht
 twitter_username: brady_koehler
 github_username:  BradyKoehler
 
+permalink: /:categories/:year/:month/:day/:title:output_ext
+
 # Build settings
 theme: minima
 plugins:

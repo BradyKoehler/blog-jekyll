@@ -2,7 +2,6 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2023-12-22 19:11:15 -0700
-categories: jekyll update
 ---
 # Welcome to my blog!
 This will likely be full of random thoughts and ramblings.
